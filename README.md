@@ -1,0 +1,2 @@
+# twitter_notes
+ScrapCastから更新してもらうリポジトリ
