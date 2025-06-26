@@ -1,2 +1,2 @@
-# twitter_notes
+# x_notes
 ScrapCastから更新してもらうリポジトリ
